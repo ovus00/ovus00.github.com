@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Publications
 
 MAZUMDAR, Suvodeep and WANG, Jing (2018). Cyber-situation awareness: a visual analytics perspective. In: PARKINSON, Simon, CRAMPTON, Andrew and HILL, Richard, (eds.) Guide to vulnerability analysis for computer networks and systems : an artificial intelligence approach. Computer Communications and Networks . Springer. (In Press)
 
