@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-MAZUMDAR, Suvodeep and WANG, Jing (2018). Cyber-situation awareness: a visual analytics perspective. In: PARKINSON, Simon, CRAMPTON, Andrew and HILL, Richard, (eds.) Guide to vulnerability analysis for computer networks and systems : an artificial intelligence approach. Computer Communications and Networks . Springer. (In Press)
+MAZUMDAR, S., CECCARONI, L., PIERA, J., HOLKER, F., BERRE, A., ARLINGHAUS, R., & BOWSER, A. (2018). Citizen science technologies and new opportunities for participation. In Bowser A., Hecker S., Haklay M., Makuch Z., Vogel J., & Bonn A. (Eds.), Citizen Science: Innovation in Open Science, Society and Policy (pp. 303-320). London: UCL Press. Retrieved from (http://www.jstor.org/stable/j.ctv550cf2.28)
+
+MAZUMDAR, Suvodeep and WANG, Jing (2018). Cyber-situation awareness: a visual analytics perspective. In: PARKINSON, Simon, CRAMPTON, Andrew and HILL, Richard, (eds.) Guide to vulnerability analysis for computer networks and systems : an artificial intelligence approach. Computer Communications and Networks . Springer. 
 
 HELLER, Ben, MAZUMDAR, Suvodeep and CIRAVEGNA, Fabio (2018). Large scale, long-term, high granularity measurement of active travel using smartphones apps. Proceedings, 2 (6), p. 293.
 
