@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-UK"
+title                    : "Dr. Suvodeep Mazumdar"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Suvodeep Mazumdar"
+description              : &description "Lecturer at the University of Sheffield"
+url                      : https://ovus00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ovus00.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Suvodeep Mazumdar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Human Computer Interaction - Visual Analytics - Semantic Web - Big Data - Smart cities - Citizen Science"
+  location         : "Sheffield, UK"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=q2zePtUAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ovus00"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0748-7638"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ovus00"
   vine             :
   weibo            :
   xing             :
